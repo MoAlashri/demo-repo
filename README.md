@@ -1,2 +1,2 @@
-# demo-repo
+# DEMO
 Learn Git hub
